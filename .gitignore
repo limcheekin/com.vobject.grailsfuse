@@ -1,0 +1,6 @@
+*.log
+*.bak
+target
+plugins
+web-app/WEB-INF
+
